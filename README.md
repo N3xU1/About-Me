@@ -1,5 +1,5 @@
 - 👋 Hi, I’m N3xU
-- 👀 I’m interested in Level Design, Mapping.
+- 👀 I’m interested in Level Design, Mapping and more.
 - 🌱 I’m currently learning C#, C++, GFX, MORE
 - 💞️ I’m looking to collaborate on Fivem Projects
 - 📫 How to reach me: N3xU#0001 [DISCORD]
